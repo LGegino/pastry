@@ -1,2 +1,2 @@
-# pastry
-phase 3
+# Pastry
+Phase 3
